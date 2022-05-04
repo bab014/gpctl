@@ -1,0 +1,11 @@
+country     ,year ,con_terror ,intprsnl_viol ,trop_disease_malaria
+Afghanistan ,1990 ,  3.68898  ,     0.829299 ,            1.118338
+Afghanistan ,1991 ,  4.598062 ,     1.007482 ,            1.136197
+Afghanistan ,1992 ,  4.939704 ,     1.057353 ,            1.100388
+Afghanistan ,1993 ,  4.546126 ,     1.085709 ,            0.964654
+Afghanistan ,1994 ,  6.225331 ,     1.103499 ,            0.922281
+Afghanistan ,1995 ,  4.722611 ,     1.120302 ,            0.90016
+Afghanistan ,1996 ,  3.738437 ,     1.229827 ,            0.908365
+Afghanistan ,1997 ,  4.908277 ,     1.085239 ,            0.918801
+Afghanistan ,1998 ,  6.585987 ,     1.054359 ,            0.988762
+Afghanistan ,1999 ,  4.231667 ,     1.054345 ,            1.013561
